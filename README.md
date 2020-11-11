@@ -1,4 +1,5 @@
 # supermall
+描述：一个类似于蘑菇街的移动端商城的项目
 
 ## Project setup
 ```
